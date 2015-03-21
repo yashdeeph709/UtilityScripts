@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\DataStax Community\apache-cassandra\bin\cassandra.bat"
